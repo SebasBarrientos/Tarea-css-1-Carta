@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    }
+body {
+    line-height: 1.6;
+    font-family: "Tillana", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    margin: 20%;
+    margin-top: 8%;
+    text-align: justify;
+    background-color: #c99868;
+    hyphens: auto;
+}
+.izq {
+    text-align: right;
+    color: grey;
+    font-size: 12px;
+}
+h1 {
+    word-spacing: 1px;
+}
+div {
+    margin: 1%;
+}
+.list{
+    
+    padding:2%;
+    padding-left: 5%;
+}
+.dances{
+    margin: 3%;
+    
+}
+.acomodo { padding-left: 5%;
+
+}
+
+.b {
+    font-weight: bold;
+}
+
+.ins {
+    text-decoration: underline
+}
+
+
+.sup {
+    vertical-align: super;
+}
+.sub {
+    vertical-align: sub;
+}
+
+
+q {
+    writing-mode: vertical-rl;
+    word-wrap: break-word;
+    height: 30px;
+}
+
+#a {
+    quotes: "'" "'";
+}
